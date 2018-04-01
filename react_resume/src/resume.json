@@ -1,0 +1,118 @@
+{
+	"name": "Jamal Butler",
+	"email": "jamaltbutler@gmail.com",
+	"phone": "(202) 744-7379",
+  "image": "https://pbs.twimg.com/profile_images/960339939656335361/VquMYiOe_200x200.jpg",
+	"website": "https://github.com/Codjam",
+	"twitter": "@Lamaj_Reltub",
+	"twitterURL": "https://twitter.com/Lamaj_Reltub",
+  "linkedin": "Jamal Butler",
+	"linkedinURL": "https://www.linkedin.com/in/jamal-butler-699978148/",
+	"experiences" : [
+		{
+			"title" : "jr Full-Stack Developer",
+			"period": "2017 - Present",
+			"company": "",
+			"companyURL": "",
+			"details": "Describe your role here lorem ipsum dolor sit amet, consectetuer adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Donec quam felis, ultricies nec, pellentesque eu, pretium quis, sem. Nulla consequat massa quis enim. Donec pede justo."
+		},
+		{
+			"title" : "P.E. Teacher",
+			"period": "2013 - Present",
+			"company": "Lowell School",
+			"companyURL": "https://www.lowellschool.org/page",
+			"details": "Describe your role here lorem ipsum dolor sit amet, consectetuer adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Donec quam felis, ultricies nec, pellentesque eu, pretium quis, sem. Nulla consequat massa quis enim. Donec pede justo."
+		}
+	],
+  "projects": [
+		{
+			"name":"Velocity",
+			"url": "https://solarsystem.nasa.gov/planets/earth/overview/",
+			"detail": "A responsive website template designed to help startups promote, market and sell their products."
+		},
+		{
+			"name":"DevStudio",
+			"url": "https://www.edx.org/",
+			"detail": "A responsive website template designed to help startups promote, market and sell their products."
+		},
+		{
+			"name":"Tempo",
+			"url": "https://www.linkedin.com/in/jamal-butler-699978148/",
+			"detail": "A responsive website template designed to help startups promote, market and sell their products."
+		},
+		{
+			"name":"Atom",
+			"url": "https://www.linkedin.com/in/jamal-butler-699978148/",
+			"detail": "A responsive website template designed to help startups promote, market and sell their products."
+		},
+		{
+			"name":"Delta",
+			"url": "https://www.linkedin.com/in/jamal-butler-699978148/",
+			"detail": "A responsive website template designed to help startups promote, market and sell their products."
+		}
+	],
+	"skills": [
+		{
+			"name": "HTML & CSS HW",
+			"percent": "85%"
+		},
+		{
+			"name": "Firebase HW",
+			"percent": "89%"
+		},
+		{
+			"name": "Group Project #1",
+			"percent": "100%"
+		},
+		{
+			"name": "Node.js HW",
+			"percent": "74%"
+		},
+		{
+			"name": "Advanced JavaScript Homework",
+			"percent": "79%"
+		},
+		{
+			"name": "React Resume",
+			"percent": "100%"
+		}
+	],
+	"education": [
+		{
+			"degree": "MSc in Computer Science (In Progress)",
+			"university": "Montgomery College",
+      "university": "UMUC",
+
+			"period": "2013 - 2021"
+		},
+		{
+			"Certification": "Food Handlers Licence",
+			"university": "Stratford University",
+      "type": "Dishwasher/Cook/Cheff/Sous Chef/Executive Cheff/Cooking Instructor",
+			"period": "1994 - 2018"
+		}
+	],
+	"languages": [
+		{
+			"name":"English",
+			"details": "Native"
+		},
+		{
+			"name":"",
+			"details": ""
+		},
+		{
+			"name":"",
+			"details": ""
+		}
+	],
+	"interests": [
+    "Family",
+		"Cooking",
+		"Athletics/Sports",
+    "Coding",
+		"Making Beer",
+    "Learning"
+
+	]
+}
