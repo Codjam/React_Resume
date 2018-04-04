@@ -6,6 +6,8 @@ class Education extends Component {
       <div className="item">
           <h4 className="degree">{this.props.item.degree}</h4>
           <h5 className="meta">{this.props.item.university}</h5>
+          <h5 className="meta">{this.props.item.type}</h5>
+          <h5 className="meta">{this.props.item.Certification}</h5>
           <div className="time">{this.props.item.period}</div>
       </div>
     );

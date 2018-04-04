@@ -8,6 +8,7 @@
 	"twitterURL": "https://twitter.com/Lamaj_Reltub",
   "linkedin": "Jamal Butler",
 	"linkedinURL": "https://www.linkedin.com/in/jamal-butler-699978148/",
+
 	"experiences" : [
 		{
 			"title" : "jr Full-Stack Developer",
@@ -26,8 +27,8 @@
 	],
   "projects": [
 		{
-			"name":"Velocity",
-			"url": "https://solarsystem.nasa.gov/planets/earth/overview/",
+			"name":"React Resume",
+			"url": "https://www.linkedin.com/in/jamal-butler-699978148/",
 			"detail": "A responsive website template designed to help startups promote, market and sell their products."
 		},
 		{
@@ -81,16 +82,20 @@
 		{
 			"degree": "MSc in Computer Science (In Progress)",
 			"university": "Montgomery College",
-      "university": "UMUC",
-
 			"period": "2013 - 2021"
 		},
 		{
-			"Certification": "Food Handlers Licence",
+			"degree": "Computer Science",
+			"university": "UMUC",
+			"period": "2017 - Expected"
+		},
+		{
+			"degree": "Food Handlers Licence",
 			"university": "Stratford University",
       "type": "Dishwasher/Cook/Cheff/Sous Chef/Executive Cheff/Cooking Instructor",
 			"period": "1994 - 2018"
 		}
+
 	],
 	"languages": [
 		{
