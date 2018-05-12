@@ -104,7 +104,13 @@ class App extends Component {
               <section className="section summary-section">
                   <h2 className="section-title"><i className="fa fa-user"></i>Career Profile</h2>
                   <div className="summary">
-                      <p>Summarise your career here lorem ipsum dolor sit amet, consectetuer adipiscing elit. You can. Aenean commodo ligula eget dolor aenean massa. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Donec quam felis, ultricies nec, pellentesque eu.</p>
+                      <p>I've been a chef (all of my life) for over 20 years, working mostly in Washington DC. Teamwork and organization has been a major factor for the success throughout my culinary carrer. Some of the establishments that I have been appart of are:  "Citronelle," "Olives," "B. Smith's," "St. Regis" (hotel) and a mom & pop cosher restaurant "The Cosher Pastry Oven." <br>
+
+                      Since 2010, I have changed carrers to becoming a physical education teacher at Lowell School.  By pure luck, the school needed a cooking instructor for a cooking class that became an elective apon my arival.  Since then, I've tought cooking skills to an array of kids grades K-8th.  While working as a PE teacher, I have been persuing an associates degree in Physical Education.<br>
+
+                      Recently, I have been enjoying the many conversations with friends that have been showing me how different languages through the computer can produce spacific things on the computer.<br>
+
+                     </p>
                   </div>
               </section>
 
@@ -118,7 +124,7 @@ class App extends Component {
               <section className="section projects-section">
                   <h2 className="section-title"><i className="fa fa-archive"></i>Projects</h2>
                   <div className="intro">
-                      <p>You can list your side projects or open source libraries in this section. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vestibulum et ligula in nunc bibendum fringilla a eu lectus.</p>
+                      <p>Below are a list of list of projets that I have done.</p>
                   </div>
 
                   {this.renderProjects()}

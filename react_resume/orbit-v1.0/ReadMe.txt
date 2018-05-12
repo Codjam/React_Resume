@@ -1,28 +1,22 @@
-Free Bootstrap Resume/CV Template for developers
 
 Theme name:
 =======================================================================
-Orbit
+Resume
 
 Theme version:
 =======================================================================
-v1.0
+Pro
 
 Release Date:
 =======================================================================
-29 Jan 2016
+17 April 2018
 
-Author: 
+Author:
 =======================================================================
-Xiaoying Riley at 3rd Wave Media (http://themes.3rdwavemedia.com/)
+Jamal Butler
 
 Contact:
 =======================================================================
 Web: http://themes.3rdwavemedia.com/
-Email: hello@3rdwavemedia.com
-Twitter: @3rdwave_themes
-
-License: 
-=======================================================================
-This template is free under the Creative Commons Attribution 3.0 License.
-https://creativecommons.org/licenses/by/3.0/
+Email: jamaltbutler@gmail.com
+Twitter: @Lamaj_Reltub
