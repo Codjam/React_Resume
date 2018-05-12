@@ -29,17 +29,17 @@
 		{
 			"name":"React Resume",
 			"url": "https://www.linkedin.com/in/jamal-butler-699978148/",
-			"detail": "A responsive website template designed to help startups promote, market and sell their products."
+			"detail": "This is the first project that I completed on my own"
 		},
 		{
 			"name":"Portfolio",
 			"url": "https://codjam.github.io/JamalsPortfolio/",
-			"detail": "A responsive website template designed to help startups promote, market and sell their products."
+			"detail": "A responsive website that I made for my portfolio."
 		},
 		{
-			"name":"Tempo",
-			"url": "https://www.linkedin.com/in/jamal-butler-699978148/",
-			"detail": "A responsive website template designed to help startups promote, market and sell their products."
+			"name":"Travel Lion",
+			"url": " https://codjam.github.io/Travel-Lion/",
+			"detail": "A group project that helps users find places to have, eat and enjoy local events."
 		},
 		{
 			"name":"Atom",
@@ -47,9 +47,9 @@
 			"detail": "A responsive website template designed to help startups promote, market and sell their products."
 		},
 		{
-			"name":"Delta",
-			"url": "https://www.linkedin.com/in/jamal-butler-699978148/",
-			"detail": "A responsive website template designed to help startups promote, market and sell their products."
+			"name":"Zinedtea",
+			"url": "https://still-headland-92939.herokuapp.com/",
+			"detail": "A group class project that Dinez and I worked on in the GW boot camp."
 		}
 	],
 	"skills": [
