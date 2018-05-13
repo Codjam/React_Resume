@@ -123,7 +123,8 @@ class App extends Component {
               <section className="section projects-section">
                   <h2 className="section-title"><i className="fa fa-archive"></i>Projects</h2>
                   <div className="intro">
-                      <p>Below are a list of list of projets that I have done.</p>
+                      <p>Below are a list of list of projects that I have done.
+.</p>
                   </div>
 
                   {this.renderProjects()}
