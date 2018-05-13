@@ -11,10 +11,10 @@
 
 	"experiences" : [
 		{
-			"title" : "jr Full-Stack Developer",
+			"title" : "GW College of Professional Studies",
 			"period": "2017 - Present",
 			"company": "",
-			"companyURL": "",
+			"companyURL": "https://bootcamp.cps.gwu.edu/",
 			"details": "Describe your role here lorem ipsum dolor sit amet, consectetuer adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Donec quam felis, ultricies nec, pellentesque eu, pretium quis, sem. Nulla consequat massa quis enim. Donec pede justo."
 		},
 		{
@@ -42,23 +42,23 @@
 			"detail": "A group project that helps users find places to have, eat and enjoy local events."
 		},
 		{
-			"name":"Atom",
-			"url": "https://www.linkedin.com/in/jamal-butler-699978148/",
-			"detail": "A responsive website template designed to help startups promote, market and sell their products."
+			"name":"Train Schedual",
+			"url": "https://codjam.github.io/Train-Schedular1/",
+			"detail": "Making a train schedule for HW."
 		},
 		{
 			"name":"Zinedtea",
 			"url": "https://still-headland-92939.herokuapp.com/",
-			"detail": "A group class project that Dinez and I worked on in the GW boot camp."
+			"detail": "A group class project that Deniz and I worked on in the GW boot camp."
 		}
 	],
 	"skills": [
 		{
-			"name": "HTML & CSS HW",
-			"percent": "85%"
+			"name": "HTML & CSS",
+			"percent": "90%"
 		},
 		{
-			"name": "Firebase HW",
+			"name": "Firebase",
 			"percent": "89%"
 		},
 		{
@@ -66,11 +66,11 @@
 			"percent": "100%"
 		},
 		{
-			"name": "Node.js HW",
-			"percent": "74%"
+			"name": "Node.js",
+			"percent": "84%"
 		},
 		{
-			"name": "Advanced JavaScript Homework",
+			"name": "Advanced JavaScript",
 			"percent": "79%"
 		},
 		{
@@ -106,10 +106,7 @@
 			"name":"",
 			"details": ""
 		},
-		{
-			"name":"",
-			"details": ""
-		}
+
 	],
 	"interests": [
     "Family",

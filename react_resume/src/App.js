@@ -108,7 +108,7 @@ class App extends Component {
 
                       Since 2010, I have changed carrers to becoming a physical education teacher at Lowell School.  By pure luck, the school needed a cooking instructor for a cooking class that became an elective apon my arival.  Since then, I've tought cooking skills to an array of kids grades K-8th.  While working as a PE teacher, I have been persuing an associates degree in Physical Education.<br/>
 
-                      Recently, I have been enjoying the many conversations with friends that have been showing me how different languages through the computer can produce spacific things on the computer.<br/>
+                      Recently, I have been enjoying the many conversations with friends that have been showing me how different languages through the computer can produce spacific things on the computer. Also, I finished a 24 week bootcamp at GW.I have posted some of my work on GitHub.{"https://github.com/Codjam"}<br/>
 
                      </p>
                   </div>
