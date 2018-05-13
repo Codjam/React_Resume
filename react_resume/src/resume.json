@@ -15,14 +15,14 @@
 			"period": "2017 - Present",
 			"company": "",
 			"companyURL": "https://bootcamp.cps.gwu.edu/",
-			"details": "Describe your role here lorem ipsum dolor sit amet, consectetuer adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Donec quam felis, ultricies nec, pellentesque eu, pretium quis, sem. Nulla consequat massa quis enim. Donec pede justo."
+			"details": "The program covered a full stack of development concepts, and I completed the program with the fundamental skills for front-end and back-end development, including:  Computer Science applied to JavaScript, browser Based Technologies (HTML, CSS, JavaScript, jQuery), Deployment, Databases (MySQL, MongoDB), Server Side Development (Node.js, Express, MERN Stack) ,Quality Assurance"
 		},
 		{
 			"title" : "P.E. Teacher",
 			"period": "2013 - Present",
 			"company": "Lowell School",
 			"companyURL": "https://www.lowellschool.org/page",
-			"details": "Describe your role here lorem ipsum dolor sit amet, consectetuer adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Donec quam felis, ultricies nec, pellentesque eu, pretium quis, sem. Nulla consequat massa quis enim. Donec pede justo."
+			"details": "I am a physical education teacher for middle and primary school students.  I make athletics fun so it is enjoyable to learn for everyone."
 		}
 	],
   "projects": [
@@ -49,7 +49,7 @@
 		{
 			"name":"Zinedtea",
 			"url": "https://still-headland-92939.herokuapp.com/",
-			"detail": "A group class project that Deniz and I worked on in the GW boot camp."
+			"detail": "A group class project that Dinez and I worked on in the GW boot camp."
 		}
 	],
 	"skills": [
@@ -106,7 +106,10 @@
 			"name":"",
 			"details": ""
 		},
-
+		{
+			"name":"",
+			"details": ""
+		}
 	],
 	"interests": [
     "Family",
