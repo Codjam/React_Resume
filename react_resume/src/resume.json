@@ -11,9 +11,9 @@
 
 	"experiences" : [
 		{
-			"title" : "GW College of Professional Studies",
+			"title" : "Full Stack Web Developer",
 			"period": "2017 - Present",
-			"company": "",
+			"company": "GW College of Professional Studies",
 			"companyURL": "https://bootcamp.cps.gwu.edu/",
 			"details": "The program covered a full stack of development concepts, and I completed the program with the fundamental skills for front-end and back-end development, including:  Computer Science applied to JavaScript, browser Based Technologies (HTML, CSS, JavaScript, jQuery), Deployment, Databases (MySQL, MongoDB), Server Side Development (Node.js, Express, MERN Stack) ,Quality Assurance"
 		},
