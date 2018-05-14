@@ -73,8 +73,8 @@ class App extends Component {
                   <ul className="list-unstyled contact-list">
                       <li className="email"><i className="fa fa-envelope"></i><a href="mailto: yourname@email.com">{resume.email}</a></li>
                       <li className="phone"><i className="fa fa-phone"></i><a href="tel:(202 744-7379)">{resume.phone}</a></li>
-                      <li className="website"><i className="fa fa-github"></i><a href={resume.websiteURL} target="_blank">{resume.website}</a></li>
-                      <li className="linkedin"><i className="fa fa-linkedin"></i><a href={resume.instagramURL} target="_blank">{resume.linkedin}</a></li>
+                      <li className="github"><i className="fa fa-github"></i><a href="https://github.com/Codjam" target="_blank">{resume.website}</a></li>
+                      <li className="linkedin"><i className="fa fa-linkedin"></i><a href={resume.linkedinURL} target="_blank">{resume.linkedin}</a></li>
                       <li className="github"><i className="fa fa-instagram"></i><a href="https://www.instagram.com/j_and_his_amazing_friends/" target="_blank">www.instagram.com</a></li>
                       <li className="twitter"><i className="fa fa-twitter"></i><a href={resume.twitterURL} target="_blank">{resume.twitter}</a></li>
                   </ul>
