@@ -114,7 +114,7 @@ class App extends Component {
               </section>
 
               <section className="section experiences-section">
-                  <h2 className="section-title"><i className="fa fa-briefcase"></i>Experiences</h2>
+                  <h2 className="section-title"><i className="fa fa-briefcase"></i>Experience</h2>
 
                   {this.renderExperiences()}
 

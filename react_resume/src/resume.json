@@ -28,7 +28,7 @@
   "projects": [
 		{
 			"name":"React Resume",
-			"url": "https://www.linkedin.com/in/jamal-butler-699978148/",
+			"url": "https://codjam.github.io/React_Resume/react_resume/build/",
 			"detail": "This is the first project that I completed on my own."
 		},
 		{
@@ -58,12 +58,12 @@
 			"percent": "90%"
 		},
 		{
-			"name": "Firebase",
+			"name": "Ajax/Axios",
 			"percent": "89%"
 		},
 		{
-			"name": "Group Project #1",
-			"percent": "100%"
+			"name": "MongoDB",
+			"percent": "80%"
 		},
 		{
 			"name": "Node.js",
