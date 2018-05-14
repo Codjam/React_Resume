@@ -72,10 +72,10 @@ class App extends Component {
               <div className="contact-container container-block">
                   <ul className="list-unstyled contact-list">
                       <li className="email"><i className="fa fa-envelope"></i><a href="mailto: yourname@email.com">{resume.email}</a></li>
-                      <li className="phone"><i className="fa fa-phone"></i><a href="tel:0123 456 789">{resume.phone}</a></li>
-                      <li className="website"><i className="fa fa-globe"></i><a href={resume.websiteURL} target="_blank">{resume.website}</a></li>
-                      <li className="linkedin"><i className="fa fa-linkedin"></i><a href={resume.linkedinURL} target="_blank">{resume.linkedin}</a></li>
-                      <li className="github"><i className="fa fa-github"></i><a href="#" target="_blank">github.com/username</a></li>
+                      <li className="phone"><i className="fa fa-phone"></i><a href="tel:(202 744-7379)">{resume.phone}</a></li>
+                      <li className="website"><i className="fa fa-github"></i><a href={resume.websiteURL} target="_blank">{resume.website}</a></li>
+                      <li className="linkedin"><i className="fa fa-linkedin"></i><a href={resume.instagramURL} target="_blank">{resume.linkedin}</a></li>
+                      <li className="github"><i className="fa fa-instagram"></i><a href="https://www.instagram.com/j_and_his_amazing_friends/" target="_blank">www.instagram.com</a></li>
                       <li className="twitter"><i className="fa fa-twitter"></i><a href={resume.twitterURL} target="_blank">{resume.twitter}</a></li>
                   </ul>
               </div>
@@ -109,7 +109,7 @@ class App extends Component {
 
                       <p>Since 2010, I have changed careers to becoming a physical education teacher at Lowell School.  By pure luck, the school needed a cooking instructor for a cooking class that became an elective apon my arival.  Since then, I've tought cooking skills to an array of kids grades K-8th.  While working as a PE teacher, I have been persuing an associates degree in Physical Education.</p>
 
-                      <p>Recently, I have been enjoying the many conversations with friends that have been showing me how different languages through the computer can produce spacific things on the computer. Also, I finished a 24 week bootcamp at GW.I have posted some of my work on GitHub.{"https://github.com/Codjam"}</p>
+                      <p>Recently, I have been enjoying the many conversations with friends that have been showing me how different languages through the computer can produce spacific things on the computer. Also, I finished a 24 week bootcamp at GW.I have posted some of my work on GitHub.{"https://github.com/Codjam."}</p>
 
                   </div>
               </section>
