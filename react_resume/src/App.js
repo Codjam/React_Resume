@@ -109,7 +109,7 @@ class App extends Component {
 
                       <p>Since 2010, I have changed careers to becoming a physical education teacher at Lowell School. By pure luck, the school needed a cooking instructor for a cooking class that became an elective upon my arrival. Since then, I've taught cooking skills to an array of kids grades K-8th. While working as a PE teacher, I have been pursuing an associates degree in Physical Education.</p>
 
-                      <p>Recently, I have been enjoying the many conversations with friends that have been showing me how different languages through the computer can produce specific things on the computer. Also, I finished a 24 week bootcamp at GW.I have posted some of my work on GitHub(Link on the sidebar).  </p>
+                      <p>Recently, I have been enjoying the many conversations with friends that have been showing me how different languages through the computer can produce specific things on the computer. Also, I finished a 24 week bootcamp at GW.I have posted some of my work on GitHub (Link on the sidebar).  </p>
 
                   </div>
               </section>
