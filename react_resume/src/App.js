@@ -105,11 +105,11 @@ class App extends Component {
               <section className="section summary-section">
                   <h2 className="section-title"><i className="fa fa-user"></i>Career Profile</h2>
                   <div className="summary">
-                      <p>I've been a chef (all of my life) for over 20 years, working mostly in Washington DC. Teamwork and organization has been a major factor for the success throughout my culinary career. Some of the establishments that I have been appart of are:  "Citronelle," "Olives," "B. Smith's," "St. Regis" (hotel) and a mom & pop cosher restaurant "The Cosher Pastry Oven." </p>
+                      <p>I've been a chef (all of my life) for over 20 years, working mostly in Washington DC. Teamwork and organization has been a major factor for the success throughout my culinary career. Some of the establishments that I have been apart of are: "Citronelle,” "Olives," "B. Smith's," "St. Regis" (hotel) and a mom & pop kosher restaurant "The Kosher Pastry Oven." </p>
 
-                      <p>Since 2010, I have changed careers to becoming a physical education teacher at Lowell School.  By pure luck, the school needed a cooking instructor for a cooking class that became an elective apon my arival.  Since then, I've tought cooking skills to an array of kids grades K-8th.  While working as a PE teacher, I have been persuing an associates degree in Physical Education.</p>
+                      <p>Since 2010, I have changed careers to becoming a physical education teacher at Lowell School. By pure luck, the school needed a cooking instructor for a cooking class that became an elective upon my arrival. Since then, I've taught cooking skills to an array of kids grades K-8th. While working as a PE teacher, I have been pursuing an associates degree in Physical Education.</p>
 
-                      <p>Recently, I have been enjoying the many conversations with friends that have been showing me how different languages through the computer can produce spacific things on the computer. Also, I finished a 24 week bootcamp at GW.I have posted some of my work on GitHub.{"https://github.com/Codjam."}</p>
+                      <p>Recently, I have been enjoying the many conversations with friends that have been showing me how different languages through the computer can produce specific things on the computer. Also, I finished a 24 week bootcamp at GW.I have posted some of my work on GitHub.https://github.com/Codjam.</p>
 
                   </div>
               </section>
